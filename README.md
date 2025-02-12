@@ -1,4 +1,4 @@
-![](https://github.com/taianecbassis/projects-portfolio/blob/main/Banner_cover%20(2).png)
+![](https://github.com/taianecbassis/Portfolio_Projects/blob/main/Banner_cover.png?raw=true)
 
 # Taiane C. B. de Assis
 <sub> Chemical Engineering | Data Science | Time Series Analist | Python | Data Analysis  </sub>
