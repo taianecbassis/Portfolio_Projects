@@ -31,6 +31,6 @@ Minhas pesquisas se concentraram na aplicação de ferramentas de Machine Learni
 See my main projects:
 
 [Análise de Dados do Airbnb: Toronto-CA ](https://github.com/taianecbassis/Airbnb_Data_analysis_Toronto-CA)
-[Panorama da Covid-19  no Brasil](https://github.com/taianecbassis/Airbnb_Data_analysis_Toronto-CA)
+[Panorama da Covid-19  no Brasil]()
 
 <sub>  This portfolio is under construction - Feel free to follow and contribute </sub>
